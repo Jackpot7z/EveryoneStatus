@@ -5,10 +5,10 @@
     "description": "Make any greenscreen video display on any website you like!",
     "author": "dmarimon@gmail.com", 
     "icons": {
-        "128": "EveryoneStatus128x128.png",
-        "48": "EveryoneStatus48x48.png",
-        "32": "EveryoneStatus32x32.png",
-        "16": "EveryoneStatus16x16.png"
+        "128": "logo/EveryoneStatus128x128.png",
+        "48": "logo/EveryoneStatus48x48.png",
+        "32": "logo/EveryoneStatus32x32.png",
+        "16": "logo/EveryoneStatus16x16.png"
     },
     "permissions": [
         "storage",
@@ -21,6 +21,6 @@
 
     ],
     "action": {
-        "default_popup": "popup.js"
+        "default_popup": "popup/popup.js"
     }
 }
